@@ -1,5 +1,7 @@
 # 👋 Hello there!
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Momo+Trust+Display&size=25&pause=1000&color=49AEF7&background=FFFFFF00&center=true&width=435&lines=Front-End+Developer;Docker;SQL+Database" alt="Typing SVG" /></a>
+
 Welcome to my GitHub profile! I'm a student at a technology-focused high school in Belo Horizonte, Minas Gerais, Brazil.  
 I'm passionate about programming and currently focused on front-end development.
 
