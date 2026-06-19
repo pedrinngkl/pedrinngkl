@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Pedro%20Gon%C3%A7alves&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=DevOps%20%2F%20Desenvolvedor%20Web&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Pedro Gonçalves banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Pedro%20Gon%C3%A7alves&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=DevOps%20%2F%20Desenvolvedor%20Web&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Banner do Pedro Gonçalves"/>
 </div>
 
 ## Pedro Gonçalves
@@ -12,42 +12,42 @@
 
 Apaixonado por automação de infraestrutura e desenvolvimento de software. Construo soluções práticas utilizando ferramentas como Python, C#, Docker e Ansible, sempre buscando otimizar processos e arquiteturas.
 
-> Building something interesting? Let's connect: https://pedrinngkl.github.io/portifolio/
+> Desenvolvendo algum projeto interessante? Vamos nos conectar: https://pedrinngkl.github.io/portifolio/
 
-## Snapshot
+## Visão Geral
 
-- ⌖ **Location** · Belo Horizonte, Brasil
-- ⌗ **Experience** · Estagiário DevOps na Construsite Brasil, atuando com administração de sistemas e automação.
-- ✦ **Fun fact** · Mantenho um Home Lab com hardwares reaproveitados rodando ZimaOS
+- ⌖ **Localização** · Belo Horizonte, Brasil
+- ⌗ **Experiência** · Estagiário DevOps na Construsite Brasil, atuando com administração de sistemas e automação.
+- ✦ **Curiosidade** · Mantenho um Home Lab com hardwares reaproveitados rodando ZimaOS
 
-## Tools I Reach For
+## Ferramentas que Utilizo
 
-**Languages**
+**Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,cs,php,css,html&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,cs,php,css,html&theme=dark" alt="Linguagens"/>
 
-**Backend & Databases**
+**Backend e Bancos de Dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,flask&theme=dark" alt="Backend & Databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,flask&theme=dark" alt="Backend e Bancos de Dados"/>
 
-**DevOps & Cloud**
+**DevOps e Cloud**
 
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,terraform&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,terraform&theme=dark" alt="DevOps e Cloud"/>
 
-## Languages
-- 🌐 **Português** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-- 🌐 **Inglês** · ![Intermediate](https://img.shields.io/badge/-Intermediate-f7c948?style=flat-square)
+## Idiomas
+- 🌐 **Português** · ![Nativo](https://img.shields.io/badge/-Nativo-00e87a?style=flat-square)
+- 🌐 **Inglês** · ![Intermediário](https://img.shields.io/badge/-Intermedi%C3%A1rio-f7c948?style=flat-square)
 
-## GitHub Signals
+## Estatísticas do GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrinngkl&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="Pedro Gonçalves stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrinngkl&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do Pedro Gonçalves"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinngkl&layout=compact&langs_count=8&theme=synthwave&hide_border=true" alt="Pedro Gonçalves top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinngkl&layout=compact&langs_count=8&theme=synthwave&hide_border=true" alt="Principais linguagens do Pedro Gonçalves"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedrinngkl&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
 
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://pedrinngkl.github.io/portifolio/)</sub>
+<sub>[Abrir ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Entre em contato](https://pedrinngkl.github.io/portifolio/)</sub>
 
 </div>
